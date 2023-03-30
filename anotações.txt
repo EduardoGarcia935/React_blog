@@ -1,0 +1,56 @@
+Front Push 2.0
+
+Módulo de React
+
+React é um ecossistema (framework), já React.js = biblioteca
+
+
+SPA (Single Page Application) :
+
+antigamente tu criava as URL enormes app/?id=123242134
+
+hj, tu tem uma página atual, q faz as requisições para as API's
+
+mesma API, servir vários clientes
+
+SPA = aplicação q carrega uma única página HTML, quaisquer interações com páginas sub sequentes, ñ necessitam a requisição de outras páginas completas
+
+Logo ñ são todos os componentes da página q precisam ser recarregados, apenas algunas
+
+
+JSX = javascript + XML
+
+React Element = toda tag é criada com a função createElement
+
+
+Webpack / Babel 
+
+Babel = converte o código em uma versão mais antiga dos códigos
+
+Webpack = ensina ao JS como importar arquivos CSS, imagens e etc. Babel pega o código JS e transforma para algo mais antigo, como vou colocar a imagem e o css no javascript? isso quem faz é o webpack
+
+
+create-react-app = build tool do facebook pro react que configura tudo pah nóis
+
+
+
+
+
+
+
+
+
+
+Rendering Patterns for web
+
+- most commum : streaming , SSR , SSG , SPA , MPA , Islands , ISR , static
+
+
+rendering = proccess to turn data and code into HTML for the cliente, and can be done both in the browser or on the server
+
+
+1. Static website = html puro, sem dynamic data
+
+2. Multi
+
+
